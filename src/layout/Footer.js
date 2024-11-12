@@ -24,14 +24,14 @@ const Footer = () => {
               <div
                 className="copyright-text"
               >
-                © 2022 Ober. All Rights Reserved
+                © 2024 Ilyes Bouzayen. All Rights Reserved
               </div>
             </div>
             <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4 align-right">
               <div
                 className="copyright-text"
               >
-                Developed by <strong>beshleyua</strong>
+                Developed by <strong>Ilyes Bouzayen</strong>
               </div>
             </div>
           </div>
